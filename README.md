@@ -23,9 +23,7 @@ Aquí es donde sucede toda la magia. Esta carpeta contiene el código fuente de 
 - **`routes`**: Aquí configuras la navegación de tu aplicación usando React Router. Es donde decides qué componente mostrar para cada ruta. ¡Así que cuando haces clic en un enlace, aquí es donde se decide qué ver!
 
 - **`services`**: Para las interacciones con APIs o cualquier servicio externo. Si necesitas hacer una llamada a un backend o un servicio de terceros, lo pones aquí. Ayuda a mantener la lógica de acceso a datos separada del resto de tu código.
-
-- **`state`**: Aquí es donde gestionas el estado global de tu aplicación. Si usas herramientas como Redux o Context API, esta carpeta es donde vas a guardar la lógica relacionada.
-
+  
 - **`utils`**: Funciones utilitarias que pueden ser útiles en varias partes de tu aplicación. Cosas como formatear fechas, validar formularios o cualquier otro helper que necesites.
 
 ### Archivos Principales
